@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itemboosts",
+  "name": "Item Boosts",
+  "description": "Some special items give little effects",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_Bloop"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
