@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "LWL",
+    " L "
+  ],
+  "key": {
+    "L": [
+      {
+        "item": "minecraft:dye",
+        "data": 4
+      }
+    ],
+    "W":[
+      {
+        "item": "minecraft:web"
+      }
+    ]
+  },
+  "result": {
+    "type": "minecraft:item_nbt",
+    "item": "minecraft:web",
+    "count": 1,
+    "nbt": {
+      "Augmented": 1
+    }
+  }
+}
