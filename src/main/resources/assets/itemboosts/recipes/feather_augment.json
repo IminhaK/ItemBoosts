@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "LWL",
+    " L "
+  ],
+  "key": {
+    "L": [
+      {
+        "item": "minecraft:dye",
+        "data": 4
+      }
+    ],
+    "W":[
+      {
+        "item": "minecraft:feather"
+      }
+    ]
+  },
+  "result": {
+    "type": "minecraft:item_nbt",
+    "item": "minecraft:feather",
+    "count": 1,
+    "nbt": {
+      "Augmented": 1
+    }
+  }
+}
